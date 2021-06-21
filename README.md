@@ -18,7 +18,7 @@ Your application must be set with: `"offlineAccess": true` (example app.json is 
 - To test `offlineAccess`, launch the repository (`npm install && npm start`).
 - Close the application / end OpenFinRVM.exe process.
 - Rename the `app.json` file to `app1.json` (denoting a missing/unavailable application manifest)
-- Launch the application from the shortcut on the desktop.
+- Launch the application from the shortcut on the desktop (Shortcut name: `OFFLINE APP`)
 
 Expected behaviour:
 
