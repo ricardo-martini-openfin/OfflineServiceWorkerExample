@@ -6,7 +6,7 @@ A simple service worker example
 
 * Service worker that caches html,css,js files
 * Service worker caches the response (json) of a fetch call.
-* offlineAccess for an unavailable application manifest.
+* offlineAccess for unavailable application manifest.
 
 
 #### Getting started:
