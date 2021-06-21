@@ -20,7 +20,11 @@
         "arguments":"" ,
         "version": "stable"
     },
-    "shortcut": {
-        "icon": "http://localhost:8080/favicon.ico"
+        "shortcut": {
+        "icon": "http://localhost:8080/favicon.ico",
+        "company": "OpenFin",
+        "description": "TEST OFFLINE APP",
+        "name": "OFFLINE APP"
     }
+ 
 }
