@@ -1,0 +1,31 @@
+{
+    "devtools_port": 9090,
+    "offlineAccess": true,
+    "startup_app": {
+        "name": "OpenfinPOC-TEST",
+        "description": "OpenFin POC",
+        "url": "http://localhost:3000/index.html",
+        "uuid": "OpenfinPOC-afa",
+        "backgroundColor": "#000",
+        "contextMenu": true,
+        "frame": true,
+        "resizable": true,
+        "autoShow": true,
+        "showTaskbarIcon": true,
+        "defaultWidth": 150,
+        "defaultHeight": 250,
+        "applicationIcon": "http://localhost:3000/favicon.ico"
+    },
+    "runtime": {
+        "arguments":"" ,
+        "version": "stable"
+    },
+        "shortcut": {
+        "windows-startup-delay": 1,
+        "icon": "http://localhost:3000/favicon.ico",
+        "company": "OpenFin",
+        "description": "TEST OFFLINE APP",
+        "name": "OFFLINE APP"
+    }
+ 
+}
